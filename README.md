@@ -57,12 +57,3 @@ These allow users to quickly filter data and explore specific customer segments 
 2. Navigate to the **Dashboard** sheet.
 3. Use the slicers to filter data based on roast type, coffee size, or loyalty status.
 4. Hover over or click charts to view details.
-
-## 🛠️ Customization Tips
-
-* Add new slicers for fields like **Country** or **Coffee Type** to further refine insights.
-* Expand the data table to include more customer details or time periods.
-* Connect Power Query or Power BI for advanced analytics.
-
-
-
