@@ -57,3 +57,6 @@ These allow users to quickly filter data and explore specific customer segments 
 2. Navigate to the **Dashboard** sheet.
 3. Use the slicers to filter data based on roast type, coffee size, or loyalty status.
 4. Hover over or click charts to view details.
+
+## 📊 Dashboard
+
