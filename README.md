@@ -59,4 +59,4 @@ These allow users to quickly filter data and explore specific customer segments 
 4. Hover over or click charts to view details.
 
 ## 📊 Dashboard
-
+![Screenshot](https://github.com/nadir2609/coffe-sales/blob/main/dashboard.png)
